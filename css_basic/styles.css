@@ -1,21 +1,22 @@
 body {
+    color: red;
     display: flex;
-    flex-direction: column
+    flex-direction: column;
 }
 
 main {
-    dispay:flex;
+    dispay: flex;
     flex-direction: row;
     flex: auto;
 
 
 article{
     flex: 2;
-    overflow-y: auto
+    overflow-y: auto;
 }
 
 aside{
     flex: 1;
-    overflow-y: auto
+    overflow-y: auto;
 }
 
