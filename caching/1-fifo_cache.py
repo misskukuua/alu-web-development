@@ -31,7 +31,4 @@ class FIFOCache(BaseCaching):
         """Retrieves an item by key.
         """
         return self.cache_data.get(key, None)
-<<<<<<< HEAD
-=======
-    
->>>>>>> d0a24e5261a49da9fc637389136164c5f0e2d18c
+
